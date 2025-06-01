@@ -4,6 +4,9 @@
 **ENZO ANTUNES OLIVEIRA   - RM553185**
 **VINICIO RAPHAEL SANTANA - RM553813**
 
+## Link do vídeo no Youtube
+https://youtu.be/aApMmvVR-xQ
+
 
 **StormTifão** é um aplicativo móvel desenvolvido para auxiliar cidadãos a encontrar e gerenciar abrigos seguros em situações de desastres naturais. 
 
